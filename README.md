@@ -26,8 +26,8 @@ H2 title
 2. 系统技术
 
 ```javascript
-	alert("hello");	
-	```
+alert("hello");	
+```
 
 [[test|test]]
 * 软件使用
